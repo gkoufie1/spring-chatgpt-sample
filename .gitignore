@@ -35,3 +35,4 @@ build/
 
 ### AZD
 .azure
+.fake
